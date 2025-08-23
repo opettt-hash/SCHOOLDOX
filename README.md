@@ -41,7 +41,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 ![Dump Sekolah](screenshots/dump1.jpg)
 
 ## Data Siswa & Parser NIK  
-![Data Siswa](screenshots/dump2.jpg)
+<img src="anjay1.jpg" alt="IP Result" width="50%">
 
 ---
 
