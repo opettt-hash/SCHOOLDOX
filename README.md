@@ -27,7 +27,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 ---
 
 ### Output & Penyimpanan 
-- Semua Hasil Otomatis Tersimpan Di Direktori
+**Semua Hasil Otomatis Tersimpan Di Direktori**
 
 ### Data Yang Didapat Meliputi   
 - Identitas Sekolah (NPSN, Status, Jumlah Siswa, Guru, Pegawai, Sinkron Terakhir)  
