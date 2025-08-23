@@ -1,17 +1,17 @@
-# 🎓 School Network Intelligence Doxing Toolkit  
-**Development by Rolandino | Crackers Community 🎭 2025**
+# School Network Intelligence Doxing Toolkit 🎓 
+**Development By Rolandino | Crackers Community 🎭 2025**
 
 ---
 
-## 📌 Deskripsi
+## Deskripsi 📌
 **School Network Intelligence Doxing Toolkit** adalah sebuah script investigasi berbasis **OSINT (Open Source Intelligence)** yang berfokus pada pengumpulan data **Populasi & Pendidikan** di Indonesia.  
 Toolkit ini dirancang untuk melakukan pencarian, validasi, serta ekstraksi informasi dari berbagai sumber publik terkait **Identitas & Database Sekolah (Dapodik & Kemendikbud)**.
 
 ---
 
-## ⚡ Fitur Utama
+## Fitur Utama ⚡
 
-### 🔍 Menu Umum Data Populasi & Identitas
+### Menu Umum Data Populasi & Identitas
 - **Cek Berdasarkan Nomor HP**  
   Mendapatkan metadata nomor HP + integrasi ke parser identitas.  
 - **Cek Berdasarkan NIK**  
