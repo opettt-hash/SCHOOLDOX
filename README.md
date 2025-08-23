@@ -3,8 +3,8 @@
 ---
 
 ## Deskripsi 
-**School Network Intelligence Doxing Toolkit** adalah sebuah script investigasi berbasis **OSINT (Open Source Intelligence)** yang berfokus pada pengumpulan data **Populasi & Pendidikan** di Indonesia.  
-Toolkit ini dirancang untuk melakukan pencarian, validasi, serta ekstraksi informasi dari berbagai sumber publik terkait **Identitas & Database Sekolah (Dapodik & Kemendikbud)**.
+**School Network Intelligence Doxing Toolkit** Adalah Sebuah Script Investigasi Berbasis **Doxing (Private Intelligence)** Yang Berfokus Pada Pengumpulan Data **Populasi & Pendidikan** Di Indonesia.  
+Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Informasi Dari Berbagai Sumber Publik Terkait **Identitas & Database Sekolah (Dapodik & Kemendikbud)**.
 
 ---
 
