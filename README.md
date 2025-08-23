@@ -61,8 +61,8 @@ Program Script Ini **Premium**
 - Update & Perbaikan Bug Tersedia Gratis Setelah Pembelian  
 
  Untuk Pembelian & Lisensi Hubungi  
-- **Telegram:** [@rolandino28](https://t.me/rolandino28)
-- **Grup Telegram** : [t.me/Crackers_Teamm](https://t.me/Crackers_Teamm)
+- **Telegram :** [@rolandino28](https://t.me/rolandino28)
+- **Grup Telegram :** [t.me/Crackers_Teamm](https://t.me/Crackers_Teamm)
   
 ---
 
