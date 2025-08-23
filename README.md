@@ -54,7 +54,7 @@ Toolkit ini dirancang untuk melakukan pencarian, validasi, serta ekstraksi infor
 
 ### Harga & Lisensi
 Script ini adalah **versi Premium** dan tidak gratis.  
-- **Harga:** Rp **50.000**  
+- **Harga:** **Rp500.000**  
 - Lisensi berlaku untuk **1 perangkat / 1 user**  
 - Update & perbaikan bug tersedia gratis setelah pembelian  
 
