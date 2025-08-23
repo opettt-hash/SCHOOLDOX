@@ -10,28 +10,28 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 
 ### Menu Umum Data Populasi & Identitas 
 - **Cek Berdasarkan Nomor HP**  
-  Mendapatkan metadata nomor HP + integrasi ke parser identitas.  
+  Mendapatkan Metadata Nomor HP + Integrasi Ke Parser Identitas.  
 - **Cek Berdasarkan NIK**  
-  Parsing & validasi NIK secara detail, dilengkapi fallback parser KPU.
+  Parsing & Validasi NIK Secara Detail, Dilengkapi Fallback Parser KPU.
 
 ### Menu Sekolah (Dapodik & Kemendikbud) 
 - **Dump Database Sekolah Berdasarkan Nama**  
-  Mengambil informasi lengkap sekolah sesuai nama.  
+  Mengambil Informasi Lengkap Sekolah Sesuai Nama.  
 - **Dump Database Sekolah Berdasarkan NPSN**  
-  Extract seluruh detail sekolah + siswa terdaftar.  
+  Extract Seluruh Detail Sekolah & Siswa Terdaftar.  
 - **Load Ulang Dump dari File Sebelumnya**  
-  Membuka kembali database hasil dump lama tanpa request baru.  
+  Membuka Kembali Database Hasil Dump Lama Tanpa Request Baru.  
 
 ---
 
 ### Output & Penyimpanan 
-- Semua hasil otomatis tersimpan di direktori
+- Semua Hasil Otomatis Tersimpan Di Direktori
 
-### Data yang didapat meliputi   
-- Identitas sekolah (NPSN, status, jumlah siswa, guru, pegawai, sinkron terakhir)  
-- Data siswa (nama, NIK, NISN, TTL, ibu kandung, status sekolah)  
-- Parser NIK (lokal + fallback KPU)  
-- Lokasi koordinat (Google Maps link: lat/long)  
+### Data Yang Didapat Meliputi   
+- Identitas Sekolah (NPSN, Status, Jumlah Siswa, Guru, Pegawai, Sinkron Terakhir)  
+- Data Siswa (Nama, NIK, NISN, TTL, Ibu Kandung, Status Sekolah)  
+- Parser NIK (Lokal & Fallback KPU)  
+- Lokasi Koordinat (Google Maps Link: lat/long)  
 
 ---
 
@@ -44,33 +44,32 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 ---
 
 ### Keunggulan
-- Bisa berjalan di **Termux & Linux**  
-- Integrasi **Parser Lokal + Fallback KPU**  
-- Output otomatis dalam format CSV  
-- Database sekolah **lengkap & detail**  
-- Cocok untuk investigasi OSINT Pendidikan  
+- Bisa Berjalan Untuk Semua **Terminal Root**  
+- Integrasi **Parser Lokal & Fallback KPU**  
+- Output Otomatis Dalam Format CSV  
+- Database Sekolah **Lengkap & Detail**  
+- Cocok Untuk Investigasi Pendidikan  
 
 ---
 
 ### Harga & Lisensi
-Script ini adalah **versi Premium** dan tidak gratis.  
+Program Script Ini **Premium** 
 - **Harga:** **Rp500.000**  
-- Lisensi berlaku untuk **1 perangkat / 1 user**  
-- Update & perbaikan bug tersedia gratis setelah pembelian  
+- Lisensi Berlaku Permanent & Open Source  
+- Update & Perbaikan Bug Tersedia Gratis Setelah Pembelian  
 
- Untuk pembelian & lisensi hubungi:  
-- **WhatsApp:** +62xxxxxxxxxxx  
+ Untuk Pembelian & Lisensi Hubungi  
 - **Telegram:** [@rolandino28](https://t.me/rolandino28)  
 
 ---
 
 ### Disclaimer
-Script ini dibuat hanya untuk:  
-- **Riset & Investigasi OSINT**  
+Program Ini Dibuat Hanya Untuk:  
+- **Riset & Investigasi**  
 - **Analisis Data Pendidikan**  
 - **Tujuan Edukasi**  
 
-> Segala penyalahgunaan di luar tujuan tersebut **bukan tanggung jawab developer**.
+> Segala Penyalahgunaan Di Luar Tujuan Tersebut **BUKAN TANGGUNG JAWAB DEVELOPER!**.
 
 ---
 
