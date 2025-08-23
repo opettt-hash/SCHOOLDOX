@@ -38,7 +38,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 ---
 
 ## Dump Sekolah Berdasarkan NPSN  
-![Dump Sekolah](screenshots/dump1.jpg)
+<img src="anjay2.jpg" alt="IP Result" width="50%">
 
 ## Data Siswa & Parser NIK  
 <img src="anjay1.jpg" alt="IP Result" width="50%">
@@ -56,7 +56,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 
 ### Harga & Lisensi
 Program Script Ini **Premium** 
-- **Harga:** **Rp500.000**  
+- **Harga:** **Rp400.000**  
 - Lisensi Berlaku Permanent & Open Source  
 - Update & Perbaikan Bug Tersedia Gratis Setelah Pembelian  
 
