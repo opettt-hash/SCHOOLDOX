@@ -9,15 +9,13 @@ Toolkit ini dirancang untuk melakukan pencarian, validasi, serta ekstraksi infor
 
 ---
 
-## Fitur Utama ⚡
-
-### Menu Umum Data Populasi & Identitas
+### Menu Umum Data Populasi & Identitas 🔍
 - **Cek Berdasarkan Nomor HP**  
   Mendapatkan metadata nomor HP + integrasi ke parser identitas.  
 - **Cek Berdasarkan NIK**  
   Parsing & validasi NIK secara detail, dilengkapi fallback parser KPU.
 
-### 🏫 Menu Sekolah (Dapodik & Kemendikbud)
+### Menu Sekolah (Dapodik & Kemendikbud) 🏫
 - **Dump Database Sekolah Berdasarkan Nama**  
   Mengambil informasi lengkap sekolah sesuai nama.  
 - **Dump Database Sekolah Berdasarkan NPSN**  
@@ -27,6 +25,5 @@ Toolkit ini dirancang untuk melakukan pencarian, validasi, serta ekstraksi infor
 
 ---
 
-## 📂 Output & Penyimpanan
-- Semua hasil otomatis tersimpan di direktori:
-- 
+## Output & Penyimpanan 📂
+- Semua hasil otomatis tersimpan di direktori
