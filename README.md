@@ -64,10 +64,7 @@ Program Script Ini **Premium**
 ---
 
 ### Disclaimer
-Program Ini Dibuat Hanya Untuk:  
-- **Riset & Investigasi**  
-- **Analisis Data Pendidikan**  
-- **Tujuan Edukasi**  
+Program Ini Dibuat Hanya Untuk Riset Investigasi, Analis Data Pendidikan & Tujuan Edukasi  
 
 > Segala Penyalahgunaan Di Luar Tujuan Tersebut **BUKAN TANGGUNG JAWAB DEVELOPER!**.
 
