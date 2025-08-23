@@ -1,6 +1,7 @@
 # School Network Intelligence Doxing Toolkit 
 
 <img src="anjay.jpg" alt="IP Result" width="100%">
+
 ---
 
 ## Deskripsi 
