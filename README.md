@@ -35,11 +35,6 @@ Toolkit ini dirancang untuk melakukan pencarian, validasi, serta ekstraksi infor
 
 ---
 
-### 📸 Tampilan Program
-
-## Menu Awal  
-![Menu](screenshots/menu.jpg)
-
 ## Dump Sekolah Berdasarkan NPSN  
 ![Dump Sekolah](screenshots/dump1.jpg)
 
