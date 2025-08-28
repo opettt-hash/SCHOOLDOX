@@ -4,9 +4,9 @@
 
 ---
 
-## Demo & Deskripsi 
+# Demo & Deskripsi 
 
-# Dokumentasi 1 ( Validate KPU ) 
+## Dokumentasi 1 ( Validate KPU ) 
 [![Tonton Video](https://img.youtube.com/vi/IDD1RzfxjWs/0.jpg)](https://www.youtube.com/watch?v=IDD1RzfxjWs)
 
 
