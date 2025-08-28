@@ -38,12 +38,8 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 <img src="penyimpanan.jpg" alt="IP Result" width="30%">
 
 ### Data Yang Didapat Meliputi   
-- Identitas Sekolah (NPSN, Status, Jumlah Siswa, Guru, Pegawai, Sinkron Terakhir)  
-- Data Siswa (Nama, NIK, NISN, TTL, Ibu Kandung, Status Sekolah)  
-- Parser NIK (Lokal & Fallback KPU)  
-- Lokasi Koordinat (Google Maps Link: lat/long)
-
-(Validate Database Sekolah)
+(Validate Ke Database Sekolah)
+- Identitas Sekolah,Npsn, Status, Jumlah Siswa, Guru, Pegawai, Detail Sinkron Terakhir 
 - Nama Lengkap Murit
 - Nama Lengkap Ibu
 - Jenis Kelamin
@@ -66,7 +62,16 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Alamat Lengkap ( Google Maps )
 - Lat/Lon
 - Metode Random
-- Validate Ke Bpjs ( Jika Tersedia )
+
+(Validate Ke Bpjs Jika Tersedia )
+- Nomor Kartu Bpjs ( By Nik )
+- Status Keterangan
+- Jenis Peserta
+- Faskes
+- Hak Kelas
+- Tanggal Lahir
+- Tmt
+- Tat
 
 ---
 
