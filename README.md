@@ -18,7 +18,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 
 ---
 
-### Menu Umum Data Populasi & Identitas 
+### Menu Data Populasi & Identitas 
 - **Cek Berdasarkan Nomor HP**  
   Mendapatkan Metadata Nomor HP + Integrasi Ke Parser Identitas.  
 - **Cek Berdasarkan NIK**  
