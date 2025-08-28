@@ -43,7 +43,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Parser NIK (Lokal & Fallback KPU)  
 - Lokasi Koordinat (Google Maps Link: lat/long)
 
-Validate Database Sekolah
+(Validate Database Sekolah)
 - Nama Lengkap Murit
 - Nama Lengkap Ibu
 - Jenis Kelamin
@@ -54,7 +54,7 @@ Validate Database Sekolah
 - Status Sekolah
 - Tahun Lulus
 
-Validate Nik Siswa Ke Database Kpu
+(Validate Nik Siswa Ke Database Kpu)
 - Nama Lengkap 
 
 ---
