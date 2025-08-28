@@ -12,9 +12,9 @@
 ## Video Dokumentasi 2 ( Validate Kpu ) 
 [![Tonton Video](https://img.youtube.com/vi/IDD1RzfxjWs/0.jpg)](https://www.youtube.com/watch?v=IDD1RzfxjWs)
 
-**School Network Intelligence Doxing Toolkit** Adalah Sebuah Script Investigasi Berbasis **Doxing (Private Intelligence)** Yang Berfokus Pada Pengumpulan Data **Populasi & Pendidikan** Di Indonesia.  
+**School Network Intelligence Doxing Toolkit** Adalah Sebuah Script Investigasi Berbasis **Doxing (Private Intelligence)** Yang Berfokus Pada Pengumpulan Data **Populasi & Pendidikan** Di Indonesia
 
-Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Informasi Dari Sumber Terkait **Identitas & Database Sekolah (Dapodik & Kemendikbud)**.
+Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Informasi Dari Sumber Terkait **Identitas & Database Sekolah (Dapodik & Kemendikbud)**
 
 ---
 
@@ -22,15 +22,15 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - **Cek Berdasarkan Nomor HP**  
   Mendapatkan Metadata Nomor HP + Integrasi Ke Parser Identitas.  
 - **Cek Berdasarkan NIK**  
-  Parsing & Validasi NIK Secara Detail, Dilengkapi Fallback Parser KPU.
+  Parsing & Validasi NIK Secara Detail, Dilengkapi Fallback Parser KPU
 
 ### Menu Sekolah (Dapodik & Kemendikbud) 
 - **Dump Database Sekolah Berdasarkan Nama**  
-  Mengambil Informasi Lengkap Sekolah Sesuai Nama.  
+  Mengambil Informasi Lengkap Sekolah Sesuai Nama  
 - **Dump Database Sekolah Berdasarkan NPSN**  
-  Extract Seluruh Detail Sekolah & Siswa Terdaftar.  
+  Extract Seluruh Detail Sekolah & Siswa Terdaftar 
 - **Load Ulang Dump dari File Sebelumnya**  
-  Membuka Kembali Database Hasil Dump Lama Tanpa Request Baru.  
+  Membuka Kembali Database Hasil Dump Lama Tanpa Request Baru  
 
 ---
 
@@ -76,7 +76,7 @@ Program Script Ini **Premium**
 ---
 
 ### Disclaimer
-Program Ini Dibuat Hanya Untuk Riset Investigasi, Analis Data Pendidikan & Tujuan Edukasi, Segala Penyalahgunaan Di Luar Tujuan Tersebut **BUKAN TANGGUNG JAWAB DEVELOPER!**.
+Program Ini Dibuat Hanya Untuk Riset Investigasi, Analis Data Pendidikan & Tujuan Edukasi, Segala Penyalahgunaan Di Luar Tujuan Tersebut **BUKAN TANGGUNG JAWAB DEVELOPER!**
 
 ---
 
