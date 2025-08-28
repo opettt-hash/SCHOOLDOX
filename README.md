@@ -6,9 +6,7 @@
 
 ## Deskripsi 
 
-<video src="video.mp4" width="720" controls autoplay>
-  Browser tidak mendukung video.
-</video>
+![Video](video.gif)
 
 **School Network Intelligence Doxing Toolkit** Adalah Sebuah Script Investigasi Berbasis **Doxing (Private Intelligence)** Yang Berfokus Pada Pengumpulan Data **Populasi & Pendidikan** Di Indonesia.  
 
