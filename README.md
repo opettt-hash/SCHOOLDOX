@@ -48,7 +48,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 ## Dump Sekolah Berdasarkan NPSN  
 <img src="anjay2.jpg" alt="IP Result" width="50%">
 
-## Data Siswa & Parser NIK  
+## Data Siswa & Parser NIK Dukcapil 
 <img src="anjay1.jpg" alt="IP Result" width="50%">
 
 ---
