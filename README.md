@@ -54,8 +54,19 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Status Sekolah
 - Tahun Lulus
 
-(Validate Nik Siswa Ke Database Kpu)
-- Nama Lengkap 
+(Validate Nik Siswa Ke Server Kpu)
+- Nama Lengkap
+- Nik
+- Nkk
+- Provinsi
+- Kabupaten
+- Kecamatan
+- Kelurahan
+- Tps
+- Alamat Lengkap ( Google Maps )
+- Lat/Lon
+- Metode Random
+- Validate Ke Bpjs ( Jika Tersedia )
 
 ---
 
