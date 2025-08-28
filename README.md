@@ -53,6 +53,7 @@ Validate Database Sekolah
 - Peserta Didik Id
 - Status Sekolah
 - Tahun Lulus
+
 Validate Nik Siswa Ke Database Kpu
 - Nama Lengkap 
 
