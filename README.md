@@ -59,11 +59,11 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Kecamatan
 - Kelurahan
 - Tps
-- Alamat Lengkap ( Google Maps )
+- Alamat Lengkap (Google Maps)
 - Lat/Lon
 - Metode Random
 
-(Validate Ke Bpjs Jika Tersedia )
+(Validate Ke Bpjs Jika Tersedia)
 - Nomor Kartu Bpjs ( By Nik )
 - Status Keterangan
 - Jenis Peserta
