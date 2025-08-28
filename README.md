@@ -41,7 +41,20 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Identitas Sekolah (NPSN, Status, Jumlah Siswa, Guru, Pegawai, Sinkron Terakhir)  
 - Data Siswa (Nama, NIK, NISN, TTL, Ibu Kandung, Status Sekolah)  
 - Parser NIK (Lokal & Fallback KPU)  
-- Lokasi Koordinat (Google Maps Link: lat/long)  
+- Lokasi Koordinat (Google Maps Link: lat/long)
+
+Validate Database Sekolah
+- Nama Lengkap Murit
+- Nama Lengkap Ibu
+- Jenis Kelamin
+- Tanggal Lahir
+- Nik
+- Nisn
+- Peserta Didik Id
+- Status Sekolah
+- Tahun Lulus
+Validate Nik Siswa Ke Database Kpu
+- Nama Lengkap 
 
 ---
 
