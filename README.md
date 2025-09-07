@@ -1,4 +1,4 @@
-# School Network Intelligence Doxing Toolkit 
+# SCHOOLDOX Intelligence Doxing Toolkit 
 
 <img src="anjay.jpg" alt="IP Result" width="100%">
 
