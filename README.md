@@ -103,9 +103,7 @@ Program Script Ini **Di Jual!**
 - **Channel Testimoni :** [t.me/rolandinoanjay](https://t.me/rolandinoanjay)
   
 ---
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00FF00&center=true&vCenter=true&width=1000&lines=WARNING+!)](https://git.io/typing-svg)
-
+### Peringatan
 <img src="Rolandino.jpg" alt="IP Result" width="100%">
 
 Program Ini Dibuat Hanya Untuk Riset Investigasi, Analis Data Pendidikan & Tujuan Edukasi, Segala Penyalahgunaan Di Luar Tujuan Tersebut **BUKAN TANGGUNG JAWAB DEVELOPER!**
