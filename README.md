@@ -1,5 +1,4 @@
-# SCHOOLDOX INTELLIGENCE DOXING TOOLKIT
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF0000&center=true&vCenter=true&width=800&lines=SCHOOLDOX+INTELLIGENCE+DOXING+TOOLKIT)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF0000&center=true&vCenter=true&width=800&lines=SCHOOLDOX+INTELLIGENCE+DOXING+TOOLKIT)](https://git.io/typing-svg)
 
 
 <img src="anjay.jpg" alt="IP Result" width="100%">
