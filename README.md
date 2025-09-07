@@ -105,8 +105,8 @@ Program Script Ini **Di Jual!**
   
 ---
 
-### Disclaimer
-<img src="Rolandino.jpg" alt="IP Result" width="50%">
+### Peringatan
+<img src="Rolandino.jpg" alt="IP Result" width="100%">
 
 Program Ini Dibuat Hanya Untuk Riset Investigasi, Analis Data Pendidikan & Tujuan Edukasi, Segala Penyalahgunaan Di Luar Tujuan Tersebut **BUKAN TANGGUNG JAWAB DEVELOPER!**
 
