@@ -1,4 +1,4 @@
-# SCHOOLDOX Intelligence Doxing Toolkit 
+# SCHOOLDOX INTELLIGENCE DOXING TOOLKIT 
 
 <img src="anjay.jpg" alt="IP Result" width="100%">
 
@@ -12,7 +12,7 @@
 ## Video Dokumentasi 2 ( Validate Kpu ) 
 [![Tonton Video](https://img.youtube.com/vi/IDD1RzfxjWs/0.jpg)](https://www.youtube.com/watch?v=IDD1RzfxjWs)
 
-**SCHOOLDOX Intelligence Doxing Toolkit** Adalah Sebuah Program Script Berbasis **Doxing (Private Intelligence)** Yang Berfokus Pada Pengumpulan Data **Populasi & Pendidikan** Di Indonesia
+**SCHOOLDOX** Adalah Sebuah Program Script Berbasis **Doxing (Private Intelligence)** Yang Berfokus Pada Pengumpulan Data **Populasi & Pendidikan** Di Indonesia
 
 Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Informasi Dari Sumber Terkait **Identitas & Database Sekolah (Dapodik & Kemendikbud)**
 
