@@ -104,7 +104,7 @@ Program Script Ini **Di Jual!**
   
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00FF00&center=true&vCenter=true&width=1000&lines=WARNING+⚠️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00FF00&center=true&vCenter=true&width=1000&lines=WARNING+!)](https://git.io/typing-svg)
 
 <img src="Rolandino.jpg" alt="IP Result" width="100%">
 
