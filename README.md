@@ -3,7 +3,7 @@
 <svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
         font-size="32" font-family="monospace" fill="#00FF00" font-weight="bold">
-    SCHOOLDOX INTELLIGENCE DOXING TOOLKIT
+    By ©rolandino
     <animate attributeName="fill" values="#00FF00;#000000;#00FF00" dur="0.8s" repeatCount="indefinite"/>
   </text>
 </svg>
