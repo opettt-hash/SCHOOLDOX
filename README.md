@@ -1,13 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FF00&center=true&vCenter=true&width=900&lines=SCHOOLDOX+INTELLIGENCE+DOXING+TOOLKIT)](https://git.io/typing-svg)
-
-<svg viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="32" font-family="monospace" fill="#00FF00" font-weight="bold">
-    By ©rolandino
-    <animate attributeName="fill" values="#00FF00;#000000;#00FF00" dur="0.8s" repeatCount="indefinite"/>
-  </text>
-</svg>
-
 <img src="anjay.jpg" alt="IP Result" width="100%">
 
 ---
