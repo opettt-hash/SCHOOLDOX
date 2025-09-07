@@ -101,6 +101,7 @@ Program Script Ini **Premium**
  Untuk Pembelian & Lisensi Hubungi  
 - **Telegram :** [@rolandino28](https://t.me/rolandino28)
 - **Grup Telegram :** [t.me/Crackers_Teamm](https://t.me/Crackers_Teamm)
+- **Channel Testimoni :** [t.me/rolandinoanjay](https://t.me/rolandinoanjay)
   
 ---
 
