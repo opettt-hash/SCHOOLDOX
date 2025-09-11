@@ -65,7 +65,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 ## Validate Ke Data Peserta BPJS
 <img src="remon1.jpg" alt="IP Result" width="100%">
 
-- Nomor Kartu
+- Nomor Kartu BPJS Peserta 
 - Nik
 - Nama Lengkap
 - Kode Pisa
@@ -92,6 +92,14 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 
 ## Validate Ke Metada BPJS 
 <img src="remon2.jpg" alt="IP Result" width="100%">
+
+- Nik
+- Nama Lengkap
+- Nomor Kartu BPJS Peserta
+- Nomor Hp
+- Email
+- Kode Jenis Peserta
+- Segmen Peserta
 ---
 
 ## Dump Sekolah Berdasarkan NPSN  
