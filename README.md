@@ -49,7 +49,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Status Sekolah
 - Tahun Lulus
 
-(Validate Nik Siswa Ke Server Kpu)
+## Validate Nik Siswa Ke Server Kpu
 - Nama Lengkap
 - Nik
 - Nkk
@@ -64,7 +64,6 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 
 ## Validate Ke Data Peserta BPJS
 <img src="remon1.jpg" alt="IP Result" width="50%">
-
 - Nomor Kartu
 - Nik
 - Nama Lengkap
