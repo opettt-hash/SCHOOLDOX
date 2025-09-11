@@ -34,7 +34,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 ---
 
 ## Semua Hasil Otomatis Tersimpan Di Direktori
-<img src="penyimpanan.jpg" alt="IP Result" width="40%">
+<img src="penyimpanan.jpg" alt="IP Result" width="100%">
  
 ## Validate Ke Database Sekolah
 - Identitas Sekolah,Npsn, Status, Jumlah Siswa, Guru, Pegawai, Detail Sinkron Terakhir 
