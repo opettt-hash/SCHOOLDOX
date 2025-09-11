@@ -62,7 +62,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Lat/Lon
 - Metode Random
 
-(Validate Ke Data Peserta BPJS )
+## Validate Ke Data Peserta BPJS
 <img src="remon1.jpg" alt="IP Result" width="50%">
 
 - Nomor Kartu
