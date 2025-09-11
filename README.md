@@ -63,7 +63,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Metode Random
 
 ## Validate Ke Data Peserta BPJS
-<img src="remon1.jpg" alt="IP Result" width="50%">
+<img src="remon1.jpg" alt="IP Result" width="100%">
 
 - Nomor Kartu
 - Nik
