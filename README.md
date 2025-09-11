@@ -62,16 +62,32 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Lat/Lon
 - Metode Random
 
-(Validate Ke Bpjs Jika Tersedia)
-- Nomor Kartu Bpjs (By Nik)
-- Status Keterangan
-- Jenis Peserta
-- Faskes
-- Hak Kelas
+(Validate Ke Data Peserta BPJS )
+<img src="remon1.jpg" alt="IP Result" width="50%">
+- Nomor Kartu
+- Nik
+- Nama Lengkap
+- Kode Pisa
+- Jenis Kelamin
+- Data Rekam Medis
 - Tanggal Lahir
-- Tmt
-- Tat
-
+- Tanggal Centak Kartu
+- Tanggal Akhir Berlalu Kartu
+- Tanggal Mulai Berlaku Kartu
+- Status Peserta
+- Provider Layanan
+- Jenis Peserta
+- Hak Kelas
+- Umur Peserta
+- Dinsos
+- Prolanisprb
+- Nosktm
+- Esep
+- Data Peserta Cob
+- Nomor Asuransi
+- Nama Asuransi
+- Tgltmt
+- tgltat
 ---
 
 ## Dump Sekolah Berdasarkan NPSN  
