@@ -37,7 +37,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 <img src="penyimpanan.jpg" alt="IP Result" width="40%">
 
 ### Data Yang Didapat Meliputi   
-(Validate Ke Database Sekolah)
+## Validate Ke Database Sekolah
 - Identitas Sekolah,Npsn, Status, Jumlah Siswa, Guru, Pegawai, Detail Sinkron Terakhir 
 - Nama Lengkap Murit
 - Nama Lengkap Ibu
