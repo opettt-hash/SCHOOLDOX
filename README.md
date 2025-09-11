@@ -133,7 +133,7 @@ Program Script Ini **Di Jual!**
 ### Peringatan
 <img src="Rolandino.jpg" alt="IP Result" width="100%">
 
-Program Ini Dibuat Hanya Untuk Riset Investigasi, Analis Data Pendidikan & Tujuan Edukasi, Segala Penyalahgunaan Di Luar Tujuan Tersebut **BUKAN TANGGUNG JAWAB DEVELOPER!**
+Program Ini Dibuat Hanya Untuk Riset Investigasi, Analis Data & Tujuan Edukasi, Segala Penyalahgunaan Di Luar Tujuan **BUKAN TANGGUNG JAWAB PENGEMBANG!**
 
 ---
 
