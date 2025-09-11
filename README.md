@@ -104,7 +104,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Integrasi **Parser Lokal & Fallback KPU**  
 - Output Otomatis Dalam Format CSV  
 - Database Sekolah **Lengkap & Detail**  
-- Cocok Untuk Investigasi Di Bidang Pendidikan  
+- Cocok Untuk Investigasi Private
 
 ---
 
