@@ -89,6 +89,9 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Nama Asuransi
 - Tgltmt
 - tgltat
+
+## Validate Ke Metada BPJS 
+<img src="remon2.jpg" alt="IP Result" width="100%">
 ---
 
 ## Dump Sekolah Berdasarkan NPSN  
