@@ -64,6 +64,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 
 (Validate Ke Data Peserta BPJS )
 <img src="remon1.jpg" alt="IP Result" width="50%">
+
 - Nomor Kartu
 - Nik
 - Nama Lengkap
