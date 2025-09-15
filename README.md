@@ -90,7 +90,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - tgltat
 
 ## Validate Ke Metada BPJS 
-<img src="remon2.jpg" alt="IP Result" width="100%">
+<img src="update.jpg" alt="IP Result" width="100%">
 
 - Nik
 - Nama Lengkap
