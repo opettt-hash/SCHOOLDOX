@@ -102,6 +102,25 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 
 ## Validate Ke PTK
 <img src="ptk.jpg" alt="IP Result" width="100%">
+
+- Nama Lengkap
+- Nuptk
+- Nik
+- Status 
+- Sekolah
+- Npsn
+- Provinsi
+- Kab/Kota
+- No Surat
+- Tgl Surat
+- Tmt Tugas
+- Id Ptk
+- Id Dapodik
+- Wkt Sinkron
+- Wkt Terbit
+- Jenis Ptk
+- Status Pegawai
+- Kategori
 ---
 
 ## Dump Sekolah Berdasarkan NPSN  
