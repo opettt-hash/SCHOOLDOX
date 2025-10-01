@@ -11,15 +11,15 @@
 ## Video Dokumentasi 2 ( Validate Kpu ) 
 [![Tonton Video](https://img.youtube.com/vi/IDD1RzfxjWs/0.jpg)](https://www.youtube.com/watch?v=IDD1RzfxjWs)
 
-**SCHOOLDOX** Adalah Sebuah Program Script Berbasis **Doxing (Private Intelligence)** Yang Berfokus Pada Pengumpulan Data **Populasi & Pendidikan** Di Indonesia
+**SCHOOLDOX** Adalah Sebuah Program Script Berbasis **Doxing (Private Intelligence)** Yang Berfokus Pada Pengumpulan Data Populasi Di **Indonesia**
 
-Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Informasi Dari Sumber Terkait **Identitas & Database Sekolah Dapodik & Kemendikbud**
+Program Ini Dirancang Untuk Melakukan Pencarian, Validate, Serta Ekstraksi Informasi Dari Sumber Terkait **Identitas Dukcapil/Dapodik/Kemendikbud**
 
 ---
 
 ### Menu Data Populasi & Identitas 
 - **Cek Berdasarkan Nomor HP**  
-  Mendapatkan Metadata Nomor HP + Integrasi Ke Parser Identitas.  
+  Mendapatkan Metadata Nomor HP + Integrasi Ke Parser Identitas
 - **Cek Berdasarkan NIK**  
   Parsing & Validasi NIK Secara Detail, Dilengkapi Fallback Parser KPU
 
@@ -132,17 +132,15 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 ---
 
 ### Keunggulan
-- Bisa Berjalan Untuk Semua **Terminal Root**  
-- Integrasi **Parser Lokal & Fallback KPU**  
-- Output Otomatis Dalam Format CSV  
-- Database Sekolah **Lengkap & Detail**  
-- Cocok Untuk Investigasi Private
+- Bisa Berjalan Untuk Semua **Terminal**  
+- Integrasi **Parser Lokal & Fallback Realtime**  
+- Cocok Untuk Investigasi Private **DOXING**
 
 ---
 
 ### Harga & Lisensi
 Program Script Ini **Di Jual!** 
-- **Harga:** **Rp200.000** ( Permanet & Open Source )
+- **Harga:** **Rp400.000** ( Permanet & Open Source )
 - Lisensi Berlaku Permanent & Open Source  
 - Update & Perbaikan Bug Tersedia Gratis Setelah Pembelian  
 
