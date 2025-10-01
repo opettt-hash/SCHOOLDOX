@@ -89,7 +89,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Tgltmt
 - tgltat
 
-## Validate Ke Metada BPJS 
+## Validate Ke Metadata BPJS 
 <img src="update.jpg" alt="IP Result" width="100%">
 
 - Nik
@@ -99,6 +99,9 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validasi, Serta Ekstraksi Infor
 - Email
 - Kode Jenis Peserta
 - Segmen Peserta
+
+## Validate Ke PTK
+<img src="ptk.jpg" alt="IP Result" width="100%">
 ---
 
 ## Dump Sekolah Berdasarkan NPSN  
