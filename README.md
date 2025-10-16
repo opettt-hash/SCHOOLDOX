@@ -122,7 +122,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validate, Serta Ekstraksi Infor
 - Status Pegawai
 - Kategori
 
-## Validate Ke Pencarian Akses Database Leak
+## Pencarian Database Leak
 <img src="leak.jpg" alt="IP Result" width="100%">
 
 - Berdasarkan Nama, Nomor Hp, Email, Atau Keyword Lain
