@@ -145,7 +145,7 @@ Program Ini Dirancang Untuk Melakukan Pencarian, Validate, Serta Ekstraksi Infor
 
 ### Harga & Lisensi
 Program Script Ini **Di Jual!** 
-- **Harga:** **Rp500.000** ( Permanet & Open Source )
+- **Harga:** **Rp400.000** ( Permanet & Open Source )
 - Lisensi Berlaku Permanent & Open Source  
 - Update & Perbaikan Bug Tersedia Gratis Setelah Pembelian  
 
